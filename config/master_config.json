@@ -1,1 +1,16 @@
-
+{
+  "app_version": "1.0.0",
+  "status": "online",
+  "temas_disponiveis": [
+    {
+      "tema_id": "tech_logic",
+      "nome_exibicao": "Programming Logic",
+      "arquivo_url": "decks/tech_logic.json"
+    },
+    {
+      "tema_id": "japanese_basic",
+      "nome_exibicao": "Japanese Hiragana",
+      "arquivo_url": "decks/japanese_basic.json"
+    }
+  ]
+}
