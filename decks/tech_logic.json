@@ -1,1 +1,22 @@
-
+{
+  "tema_id": "tech_logic",
+  "tema_nome": "Programming Logic",
+  "questionarios": [
+    {
+      "questionario_id": "boolean_01",
+      "questionario_nome": "Boolean Basics",
+      "flashcards": [
+        {
+          "card_id": "q1",
+          "frente": "What is the logical result of: TRUE AND (FALSE OR TRUE)?",
+          "verso": "TRUE (The inner OR results in TRUE, and TRUE AND TRUE is TRUE)."
+        },
+        {
+          "card_id": "q2",
+          "frente": "How many states can a 9-bit binary number represent?",
+          "verso": "512 states (2^9)."
+        }
+      ]
+    }
+  ]
+}
